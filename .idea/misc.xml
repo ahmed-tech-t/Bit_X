@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/bg_gradient.xml" value="0.26614583333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/flaoting_button1.xml" value="0.2265625" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/floating_button.xml" value="0.2265625" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/floating_button1.xml" value="0.2265625" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/google.xml" value="0.26614583333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.2625" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/ic_group_2.xml" value="0.24814814814814815" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/ic_union_2.xml" value="0.26614583333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/layout_design_blue.xml" value="0.26614583333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/layout_design_blue_bottom_raduis.xml" value="0.26205128205128203" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/layout_design_blue_top_raduis.xml" value="0.26205128205128203" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/layout_design_blue_white.xml" value="0.26614583333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/layout_design_gray.xml" value="0.26614583333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/layout_design_top_line.xml" value="0.26614583333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/layout_design_white.xml" value="0.26614583333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/layout_design_white_blue_top_raduis.xml" value="0.26614583333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/layout_design_white_border.xml" value="0.2625" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/layout_design_white_green.xml" value="0.26614583333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/layout_design_white_top_radius.xml" value="0.2625" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/layout_design_white_top_raduis.xml" value="0.26614583333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/logo.xml" value="0.2625" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/logo_blue.xml" value="0.2625" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/main_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/plus.xml" value="0.2265625" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/splash_screen.xml" value="0.26614583333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/teest.xml" value="0.2625" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/trader_layout_design.xml" value="0.26614583333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/trader_layout_design1.xml" value="0.26614583333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/trader_layout_design2.xml" value="0.25052083333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/drawable/trader_layout_design_white_green.xml" value="0.26614583333333336" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_add_expense_or_debts.xml" value="0.176" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_add_expense_ordebts.xml" value="0.25" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_add_trader.xml" value="0.152" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_add_trader_or_worker.xml" value="0.2359375" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_analises.xml" value="0.25" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_clients.xml" value="0.25" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_debts.xml" value="0.264" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_expense.xml" value="0.264" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_income.xml" value="0.25" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_manage_expense.xml" value="0.25" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_manage_project.xml" value="0.264" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_pay_ment_history.xml" value="0.25" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_projects.xml" value="0.25" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_splash_screen.xml" value="0.2246376811594203" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_trader.xml" value="0.4" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_wages.xml" value="0.25" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/activity_workers.xml" value="0.25" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/alert_dialog_layout.xml" value="0.2" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/first_layout.xml" value="0.264" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/first_layout_shimmer.xml" value="0.4" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/forth_layout.xml" value="0.26197916666666665" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/fragment_select_client.xml" value="0.25" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/fragment_select_trader.xml" value="0.14705882352941177" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/fragment_select_worker.xml" value="0.24791666666666667" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/fragment_traders.xml" value="0.25" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/fragment_worker.xml" value="0.25" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/google_login_layout.xml" value="0.25" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/second_layout.xml" value="0.6" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/second_layout_fragment.xml" value="0.25" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/second_layout_shimmer.xml" value="0.4" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/test.xml" value="0.25" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/third_layout.xml" value="0.4" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/third_layout_shimmer.xml" value="0.264" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/layout/trader_layout.xml" value="0.4" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/menu/nav_menu.xml" value="0.25" />
+        <entry key="..\:/android/android/android Projects/testApps/Bit_X/app/src/main/res/menu/trader_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

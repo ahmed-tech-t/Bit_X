@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Bit X</string>
+    <string name="projects">المشاريع</string>
+    <string name="traders">التجار</string>
+    <string name="workers">الصنايعية</string>
+    <string name="analise">الأحصائيات</string>
+    <string name="traderName">اسم التاجر</string>
+    <string name="workerName">اسم الصنايعى</string>
+    <string name="balance">الرصيد</string>
+    <string name="mobilePhone">رقم الهاتف</string>
+    <string name="save">حفظ</string>
+    <string name="projectName">اسم المشروع</string>
+    <string name="incomes">الايرادات</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="expenses">المصروفات</string>
+    <string name="description">الوصف</string>
+    <string name="value">القيمة</string>
+    <string name="purchases">المشتريات</string>
+    <string name="wages">المصنعيات</string>
+    <string name="debts">التسديدات</string>
+    <string name="pay">تسديد</string>
+    <string name="payed">المدفوع</string>
+    <string name="debts_">الدين</string>
+    <string name="login">Login/Register</string>
+    <string name="productDescription">وصف البضاعة</string>
+    <string name="logout">Logout</string>
+    <string name="edit">تعديل</string>
+    <string name="delete">حذف</string>
+    <string name="requiredField">يجب ملئ هذا الحقل</string>
+    <string name="client">العميل</string>
+    <string name="debts__">المديونية</string>
+    <string name="clientName">اسم العميل</string>
+    <string name="totalPrice">المبلغ الاجمالى</string>
+    <string name="theirIsNoDebts">تم تسديد كامل المديونية</string>
+    <string name="deleteClient">مسح العميل</string>
+    <string name="cancel">الغاء</string>
+    <string name="deleteClientMessage">هل انت متأكد من رغبتك فى حذف هذا العميل</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="paymentHistory">سجل العمليات</string>
+    <string-array name="payment_spinner_array">
+        <item>الكل</item>
+        <item>اسم المشروع</item>
+    </string-array>
+
+</resources>
