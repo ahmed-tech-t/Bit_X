@@ -1,10 +1,12 @@
 # Bit_X
 
 <p align="center">
-<img src="https://github.com/ahmed-tech-t/Bit_X/assets/54076405/86684131-f317-4618-8564-056f4825db76" width ="650"></br>
-</p>
-<p align="center">
 <img src="https://github.com/ahmed-tech-t/Bit_X/assets/54076405/444e3acd-6325-4b9b-91f6-d10db3cb3026" width ="650"></br>
+</p>
+
+
+<p align="center">
+<img src="https://github.com/ahmed-tech-t/Bit_X/assets/54076405/86684131-f317-4618-8564-056f4825db76" width ="650"></br>
 </p>
 
 <p align="center">
